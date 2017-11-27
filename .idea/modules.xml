@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\sourcecode\previewsdk\demo\app.iml" filepath="D:\sourcecode\previewsdk\demo\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://D:\sourcecode\previewsdk\mupdf\mupdf.iml" filepath="D:\sourcecode\previewsdk\mupdf\mupdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mupdf-core/mupdf-core.iml" filepath="$PROJECT_DIR$/mupdf-core/mupdf-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mupdf-viewer.iml" filepath="$PROJECT_DIR$/mupdf-viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mupdf-viewer-sdk/mupdf-viewer-sdk.iml" filepath="$PROJECT_DIR$/mupdf-viewer-sdk/mupdf-viewer-sdk.iml" />
+    </modules>
+  </component>
+</project>

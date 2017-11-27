@@ -1,0 +1,1 @@
+include ':demo', ':mupdf-core', ':mupdf-viewer-sdk'
