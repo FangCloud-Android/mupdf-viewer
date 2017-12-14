@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
 
-group = 'com.github.leixin525'
+group = 'com.github.leixin525.mupdf-viewer'
 
 android {
     compileSdkVersion 25
