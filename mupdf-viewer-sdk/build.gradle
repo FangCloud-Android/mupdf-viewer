@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 
 apply plugin: 'com.github.dcendents.android-maven' // ADD THIS
 
-group = 'com.github.FangCloud-Android.mupdf-viewer'
+group = 'com.github.leixin525.mupdf-viewer'
 
 android {
 
